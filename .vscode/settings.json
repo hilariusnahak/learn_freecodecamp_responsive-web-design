@@ -1,0 +1,12 @@
+{
+    "workbench.tree.indent": 5,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "pythonIndent.keepHangingBracketOnLine": true,
+    "pythonIndent.useTabOnHangingIndent": true,
+    "pythonIndent.trimLinesWithOnlyWhitespace": true,
+    "editor.stickyTabStops": true,
+    "editor.tabSize": 2,
+    "editor.fontSize": 16,
+    "livePreview.defaultPreviewPath": "/09 Not Passed Learn More About CSS Pseudo Selectors By Building A Balance Sheet/index.html"
+}
